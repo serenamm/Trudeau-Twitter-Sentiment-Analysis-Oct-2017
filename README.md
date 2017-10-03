@@ -1,2 +1,2 @@
 # Projects
-Portfolio of projects
+Portfolio of projects done with Jupyter notebooks
